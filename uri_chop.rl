@@ -1,6 +1,6 @@
 /*
  * Copyright (c) 2013 Christian Hansen <chansen@cpan.org>
- * <https://github.com/chansen/c-uri-split>
+ * <https://github.com/chansen/c-uri-chop>
  * All rights reserved.
  * 
  * Redistribution and use in source and binary forms, with or without
